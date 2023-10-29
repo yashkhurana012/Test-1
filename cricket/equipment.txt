@@ -1,0 +1,19 @@
+Equipments use in Cricket:
+-->Bat
+-->Ball
+-->Stumps
+-->Bails
+-->Ball (Optional)
+-->Pads
+-->Gloves
+-->Helmet
+-->Thigh Guards
+-->Chest Guard
+-->Abdominal Guard
+-->Shoes
+-->Clothing
+-->Bag
+-->Wicket-keeping Gloves and Pads 
+-->Batting and Bowling Accessories 
+-->Boundary Flags and Markers
+-->Scoreboard
